@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ydonchoi/LeetExcercise/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/ydonchoi/LeetExcercise/tree/master/0073-set-matrix-zeroes) |
+| [3330-modify-the-matrix](https://github.com/ydonchoi/LeetExcercise/tree/master/3330-modify-the-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -24,4 +25,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ydonchoi/LeetExcercise/tree/master/0073-set-matrix-zeroes) |
+| [3330-modify-the-matrix](https://github.com/ydonchoi/LeetExcercise/tree/master/3330-modify-the-matrix) |
 <!---LeetCode Topics End-->
