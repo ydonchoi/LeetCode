@@ -26,4 +26,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/ydonchoi/LeetExcercise/tree/master/0073-set-matrix-zeroes) |
 | [3330-modify-the-matrix](https://github.com/ydonchoi/LeetExcercise/tree/master/3330-modify-the-matrix) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/ydonchoi/LeetExcercise/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
