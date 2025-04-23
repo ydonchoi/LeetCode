@@ -55,5 +55,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1877-find-followers-count](https://github.com/ydonchoi/LeetExcercise/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ydonchoi/LeetExcercise/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/ydonchoi/LeetExcercise/tree/master/1942-primary-department-for-each-employee) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/ydonchoi/LeetExcercise/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ydonchoi/LeetExcercise/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
