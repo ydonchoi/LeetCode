@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0175-combine-two-tables](https://github.com/ydonchoi/LeetExcercise/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/ydonchoi/LeetExcercise/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/ydonchoi/LeetExcercise/tree/master/0180-consecutive-numbers) |
+| [0182-duplicate-emails](https://github.com/ydonchoi/LeetExcercise/tree/master/0182-duplicate-emails) |
 | [0185-department-top-three-salaries](https://github.com/ydonchoi/LeetExcercise/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/ydonchoi/LeetExcercise/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ydonchoi/LeetExcercise/tree/master/0570-managers-with-at-least-5-direct-reports) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0620-not-boring-movies](https://github.com/ydonchoi/LeetExcercise/tree/master/0620-not-boring-movies) |
 | [0626-exchange-seats](https://github.com/ydonchoi/LeetExcercise/tree/master/0626-exchange-seats) |
 | [1135-customers-who-bought-all-products](https://github.com/ydonchoi/LeetExcercise/tree/master/1135-customers-who-bought-all-products) |
+| [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ydonchoi/LeetExcercise/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1155-product-sales-analysis-iii](https://github.com/ydonchoi/LeetExcercise/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/ydonchoi/LeetExcercise/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/ydonchoi/LeetExcercise/tree/master/1179-game-play-analysis-i) |
@@ -75,14 +77,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-top-travellers](https://github.com/ydonchoi/LeetExcercise/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/ydonchoi/LeetExcercise/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/ydonchoi/LeetExcercise/tree/master/1670-patients-with-a-condition) |
+| [1734-bank-account-summary-ii](https://github.com/ydonchoi/LeetExcercise/tree/master/1734-bank-account-summary-ii) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/ydonchoi/LeetExcercise/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1811-fix-names-in-a-table](https://github.com/ydonchoi/LeetExcercise/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/ydonchoi/LeetExcercise/tree/master/1827-invalid-tweets) |
+| [1837-daily-leads-and-partners](https://github.com/ydonchoi/LeetExcercise/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/ydonchoi/LeetExcercise/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/ydonchoi/LeetExcercise/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/ydonchoi/LeetExcercise/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ydonchoi/LeetExcercise/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/ydonchoi/LeetExcercise/tree/master/1942-primary-department-for-each-employee) |
+| [1948-rearrange-products-table](https://github.com/ydonchoi/LeetExcercise/tree/master/1948-rearrange-products-table) |
 | [2041-the-latest-login-in-2020](https://github.com/ydonchoi/LeetExcercise/tree/master/2041-the-latest-login-in-2020) |
 | [2057-count-salary-categories](https://github.com/ydonchoi/LeetExcercise/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/ydonchoi/LeetExcercise/tree/master/2087-confirmation-rate) |
