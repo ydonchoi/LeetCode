@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/ydonchoi/LeetExcercise/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/ydonchoi/LeetExcercise/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/ydonchoi/LeetExcercise/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/ydonchoi/LeetExcercise/tree/master/0185-department-top-three-salaries) |
@@ -46,9 +47,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ydonchoi/LeetExcercise/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/ydonchoi/LeetExcercise/tree/master/0577-employee-bonus) |
 | [0585-investments-in-2016](https://github.com/ydonchoi/LeetExcercise/tree/master/0585-investments-in-2016) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/ydonchoi/LeetExcercise/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/ydonchoi/LeetExcercise/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/ydonchoi/LeetExcercise/tree/master/0596-classes-more-than-5-students) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/ydonchoi/LeetExcercise/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [0607-sales-person](https://github.com/ydonchoi/LeetExcercise/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/ydonchoi/LeetExcercise/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/ydonchoi/LeetExcercise/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/ydonchoi/LeetExcercise/tree/master/0620-not-boring-movies) |
@@ -56,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1135-customers-who-bought-all-products](https://github.com/ydonchoi/LeetExcercise/tree/master/1135-customers-who-bought-all-products) |
 | [1155-product-sales-analysis-iii](https://github.com/ydonchoi/LeetExcercise/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/ydonchoi/LeetExcercise/tree/master/1161-project-employees-i) |
+| [1179-game-play-analysis-i](https://github.com/ydonchoi/LeetExcercise/tree/master/1179-game-play-analysis-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/ydonchoi/LeetExcercise/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/ydonchoi/LeetExcercise/tree/master/1258-article-views-i) |
 | [1278-product-price-at-a-given-date](https://github.com/ydonchoi/LeetExcercise/tree/master/1278-product-price-at-a-given-date) |
@@ -68,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1462-list-the-products-ordered-in-a-period](https://github.com/ydonchoi/LeetExcercise/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/ydonchoi/LeetExcercise/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ydonchoi/LeetExcercise/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1541-top-travellers](https://github.com/ydonchoi/LeetExcercise/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/ydonchoi/LeetExcercise/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/ydonchoi/LeetExcercise/tree/master/1670-patients-with-a-condition) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/ydonchoi/LeetExcercise/tree/master/1773-percentage-of-users-attended-a-contest) |
@@ -75,8 +80,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1827-invalid-tweets](https://github.com/ydonchoi/LeetExcercise/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/ydonchoi/LeetExcercise/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/ydonchoi/LeetExcercise/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/ydonchoi/LeetExcercise/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ydonchoi/LeetExcercise/tree/master/1908-recyclable-and-low-fat-products) |
 | [1942-primary-department-for-each-employee](https://github.com/ydonchoi/LeetExcercise/tree/master/1942-primary-department-for-each-employee) |
+| [2041-the-latest-login-in-2020](https://github.com/ydonchoi/LeetExcercise/tree/master/2041-the-latest-login-in-2020) |
 | [2057-count-salary-categories](https://github.com/ydonchoi/LeetExcercise/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/ydonchoi/LeetExcercise/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/ydonchoi/LeetExcercise/tree/master/2127-employees-whose-manager-left-the-company) |
