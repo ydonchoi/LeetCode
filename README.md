@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/ydonchoi/LeetExcercise/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ydonchoi/LeetExcercise/tree/master/0073-set-matrix-zeroes) |
+| [0290-word-pattern](https://github.com/ydonchoi/LeetExcercise/tree/master/0290-word-pattern) |
 ## Matrix
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/ydonchoi/LeetExcercise/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ydonchoi/LeetExcercise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/ydonchoi/LeetExcercise/tree/master/0067-add-binary) |
+| [0290-word-pattern](https://github.com/ydonchoi/LeetExcercise/tree/master/0290-word-pattern) |
 | [3379-score-of-a-string](https://github.com/ydonchoi/LeetExcercise/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
