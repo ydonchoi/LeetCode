@@ -32,11 +32,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ydonchoi/LeetExcercise/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/ydonchoi/LeetExcercise/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/ydonchoi/LeetExcercise/tree/master/0067-add-binary) |
 | [3379-score-of-a-string](https://github.com/ydonchoi/LeetExcercise/tree/master/3379-score-of-a-string) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ydonchoi/LeetExcercise/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/ydonchoi/LeetExcercise/tree/master/0067-add-binary) |
 ## Database
 |  |
 | ------- |
@@ -95,4 +97,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2087-confirmation-rate](https://github.com/ydonchoi/LeetExcercise/tree/master/2087-confirmation-rate) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/ydonchoi/LeetExcercise/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/ydonchoi/LeetExcercise/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ydonchoi/LeetExcercise/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ydonchoi/LeetExcercise/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
