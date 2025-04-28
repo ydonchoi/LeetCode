@@ -49,11 +49,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0176-second-highest-salary](https://github.com/ydonchoi/LeetExcercise/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/ydonchoi/LeetExcercise/tree/master/0180-consecutive-numbers) |
 | [0182-duplicate-emails](https://github.com/ydonchoi/LeetExcercise/tree/master/0182-duplicate-emails) |
+| [0183-customers-who-never-order](https://github.com/ydonchoi/LeetExcercise/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/ydonchoi/LeetExcercise/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/ydonchoi/LeetExcercise/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/ydonchoi/LeetExcercise/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/ydonchoi/LeetExcercise/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ydonchoi/LeetExcercise/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/ydonchoi/LeetExcercise/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/ydonchoi/LeetExcercise/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/ydonchoi/LeetExcercise/tree/master/0585-investments-in-2016) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/ydonchoi/LeetExcercise/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/ydonchoi/LeetExcercise/tree/master/0595-big-countries) |
@@ -69,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1155-product-sales-analysis-iii](https://github.com/ydonchoi/LeetExcercise/tree/master/1155-product-sales-analysis-iii) |
 | [1161-project-employees-i](https://github.com/ydonchoi/LeetExcercise/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/ydonchoi/LeetExcercise/tree/master/1179-game-play-analysis-i) |
+| [1182-game-play-analysis-iv](https://github.com/ydonchoi/LeetExcercise/tree/master/1182-game-play-analysis-iv) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/ydonchoi/LeetExcercise/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/ydonchoi/LeetExcercise/tree/master/1258-article-views-i) |
 | [1278-product-price-at-a-given-date](https://github.com/ydonchoi/LeetExcercise/tree/master/1278-product-price-at-a-given-date) |
@@ -83,9 +87,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/ydonchoi/LeetExcercise/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/ydonchoi/LeetExcercise/tree/master/1541-top-travellers) |
 | [1625-group-sold-products-by-the-date](https://github.com/ydonchoi/LeetExcercise/tree/master/1625-group-sold-products-by-the-date) |
+| [1664-find-users-with-valid-e-mails](https://github.com/ydonchoi/LeetExcercise/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/ydonchoi/LeetExcercise/tree/master/1670-patients-with-a-condition) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/ydonchoi/LeetExcercise/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1734-bank-account-summary-ii](https://github.com/ydonchoi/LeetExcercise/tree/master/1734-bank-account-summary-ii) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/ydonchoi/LeetExcercise/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1801-average-time-of-process-per-machine](https://github.com/ydonchoi/LeetExcercise/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/ydonchoi/LeetExcercise/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/ydonchoi/LeetExcercise/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/ydonchoi/LeetExcercise/tree/master/1837-daily-leads-and-partners) |
