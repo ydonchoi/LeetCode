@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0006-zigzag-conversion](https://github.com/ydonchoi/LeetExcercise/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/ydonchoi/LeetExcercise/tree/master/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ydonchoi/LeetExcercise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/ydonchoi/LeetExcercise/tree/master/0067-add-binary) |
 | [3379-score-of-a-string](https://github.com/ydonchoi/LeetExcercise/tree/master/3379-score-of-a-string) |
 ## Math
@@ -105,4 +106,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ydonchoi/LeetExcercise/tree/master/0067-add-binary) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ydonchoi/LeetExcercise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ydonchoi/LeetExcercise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
