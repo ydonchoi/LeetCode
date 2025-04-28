@@ -1,2 +1,7 @@
 # Write your MySQL query statement below
-select e1.employee_id from Employees e1 left join employees e2 on e1.manager_id = e2.employee_id where e1.salary < 30000 and e1.manager_id IS NOT NULL and e2.employee_id IS NULL order by e1.employee_id ASC
+
+SELECT e1.employee_id 
+FROM Employees AS e1 LEFT JOIN employees AS e2 
+ON e1.manager_id = e2.employee_id 
+WHERE e1.salary < 30000 AND e1.manager_id IS NOT NULL AND e2.employee_id IS NULL 
+ORDER BY e1.employee_id ASC;
